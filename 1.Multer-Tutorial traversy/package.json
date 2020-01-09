@@ -1,0 +1,17 @@
+{
+  "name": "multer-tutorial-traversy",
+  "version": "1.0.0",
+  "description": "An example for uploading images with NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.2"
+  }
+}
